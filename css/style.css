@@ -7,6 +7,9 @@ body{
     background-color: aqua;
     
 }
+.heading{
+    text-align: center;
+}
 
 .container{
    border:snow solid;
@@ -15,7 +18,8 @@ body{
    width:fit-content;
    text-align: center;
    background-color: aliceblue;
-   
+   margin-left: 41%;
+   margin-top:10%;
    
    
 }

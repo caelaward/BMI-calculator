@@ -8,6 +8,7 @@ body{
     
 }
 .heading{
+    margin-top: 50px;
     text-align: center;
 }
 
@@ -18,9 +19,13 @@ body{
    width:fit-content;
    text-align: center;
    background-color: aliceblue;
-   margin-left: 41%;
+   margin-left: 36%;
    margin-top:10%;
+   
+   
+}
 
-   
-   
+#label{
+    width:450px;
+    height:30px;
 }
